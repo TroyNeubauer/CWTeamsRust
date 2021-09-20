@@ -1,0 +1,7 @@
+[package]
+name = "CWTeamsRust"
+version = "0.1.0"
+edition = "2021"
+description = "A Rust based command line utility for balancing teams based on individual player rankings"
+
+[dependencies]
